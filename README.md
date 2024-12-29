@@ -40,4 +40,10 @@
 
 <h3 align="center">✨ "Code, Create, Inspire." ✨</h3>
 
+<h3 align="left">🐍 Snack Game:</h3>
+<p align="center">
+  <img src="https://github.com/yahyalem02/yahyalem02/blob/output/snake.svg" alt="Snake Game" />
+</p>
+
+
 
