@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm YAHYA LEMKHARBECH</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | Future Systems Engineer | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://wanderin.dev/about-the-full-stack-web-developer/" />
+<img  alt="Coding" width="400" src="https://wanderin.dev/about-the-full-stack-web-developer/" />
+
 
 ---
 
