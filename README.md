@@ -2,12 +2,8 @@
 <h1 align="center">Hi 👋, I'm YAHYA LEMKHARBECH</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | Future Systems Engineer | Lifelong Learner</h3>
 
-<img  alt="Coding" width="400" src="https://wanderin.dev/about-the-full-stack-web-developer/" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyalem02&label=Profile%20views&color=0e75b6&style=flat" alt="yahyalem02" /> </p>
 
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyalem02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 - 🌍 **Based in Morocco**, proud of my roots and inspired by global innovation.
 - 💻 **Currently working on:** Freelance web projects and mastering Java web & mobile development.
