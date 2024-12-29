@@ -7,9 +7,8 @@
 
 - 🌍 **Based in Morocco**, proud of my roots and inspired by global innovation.
 - 💻 **Currently working on:** Freelance web projects and mastering Java web & mobile development.
-- 🎓 **Education:** Pursuing a double-degree Master's in Information Systems Engineering.
+-🎓 Education: Pursuing a Master's degree in Information Systems Engineering.
 - 🌟 **Passionate about:** Building scalable solutions, creating impactful designs, and always learning.
-- ⚽ **Fun fact:** I’m a big fan of Wydad Casablanca! 🔴⚪
 
 ---
 
