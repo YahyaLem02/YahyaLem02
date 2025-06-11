@@ -10,10 +10,10 @@
 
 ### 🌍 About Me:
 - 🏠 *From Zemamra, Morocco*, heart rooted in faith and simplicity.
-- 🎓 *Master's Student* in Information Systems Engineering (FSSM | Université de Brest 🇫🇷)
+- 🎓 *Master's Student* in Information Systems Engineering (FSSM)
 - 🛠 *Crafting:* Full stack solutions using Java, Spring, React, Laravel & more.
-- 💼 *Freelancing:* Web & mobile projects to empower clients across Morocco.
-- 🤲 *Belief:* "وَقُل رَّبِّ زِدْنِي عِلْمًا" — *“My Lord, increase me in knowledge”* (Quran 20:114)
+- 💼 *Freelancing:* Web & mobile projects to empower clients across World.
+- 🤲 *Belief:* "وَقُل رَّبِّ زِدْنِي عِلْمًا" — *“My Lord, increase me in knowledge”* 
 
 ---
 
@@ -42,7 +42,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 
 #### 🧪 Tools & IDEs
 <p align="center">
