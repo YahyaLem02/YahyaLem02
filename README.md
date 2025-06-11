@@ -78,7 +78,3 @@
 ---
 
 <h3 align="center">✨ "Code with sincerity. Build with purpose. Trust in Allah." ✨</h3>
-
-<p align="center">
-  <img src="https://img.freepik.com/vecteurs-libre/elegant-motif-arabe-dore-fond-noir_1017-38387.jpg" width="70%"/>
-</p>
