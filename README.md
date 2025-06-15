@@ -73,39 +73,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
----
 
-### 📈 Coding Metrics & Productivity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YahyaLem02&theme=radical&layout=compact" alt="Wakatime stats"/>
-</p>
-
-```javascript
-// My typical weekly coding breakdown
-const weeklyActivity = {
-  Java: "18 hrs 42 mins",
-  JavaScript: "12 hrs 15 mins",
-  React: "9 hrs 30 mins",
-  Laravel: "7 hrs 45 mins",
-  Spring: "8 hrs 20 mins",
-  DatabaseDesign: "5 hrs 10 mins",
-  Research: "6 hrs 30 mins",
-  Learning: "8 hrs 15 mins",
-  Prayer: "5 times daily ➕"
-}
-```
-
----
-
-### 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing-A9225C?style=for-the-badge&logo=jest&logoColor=white"/>
-</p>
 
 ---
 
@@ -133,64 +101,6 @@ const weeklyActivity = {
   <img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
----
-
-### 📚 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Islamic Prayer Times API</h3>
-      <p align="center">
-        <a href="https://github.com/YahyaLem02/prayer-times-api">
-          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-        </a>
-      </p>
-      <p align="center">A REST API for accurate Islamic prayer times calculations with Qibla direction.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
-      <p align="center">
-        <a href="https://github.com/YahyaLem02/market-platform">
-          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-        </a>
-      </p>
-      <p align="center">Full-stack e-commerce solution with Spring Boot and React.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Student Management System</h3>
-      <p align="center">
-        <a href="https://github.com/YahyaLem02/student-management">
-          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-        </a>
-      </p>
-      <p align="center">Comprehensive platform for educational institutions built with Laravel.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Healthcare Appointment System</h3>
-      <p align="center">
-        <a href="https://github.com/YahyaLem02/healthcare-appointments">
-          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project">
-        </a>
-      </p>
-      <p align="center">Modern appointment system using MERN stack with real-time notifications.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Weekly Development Breakdown
-
-```text
-Java          ███████████░░░░░░  42.3%
-JavaScript    ████████░░░░░░░░░  28.7%
-TypeScript    █████░░░░░░░░░░░░  15.2%
-SQL           ███░░░░░░░░░░░░░░   8.5%
-HTML/CSS      ██░░░░░░░░░░░░░░░   5.3%
-```
 
 ---
 
@@ -199,19 +109,9 @@ HTML/CSS      ██░░░░░░░░░░░░░░░   5.3%
 <p align="center">
   <a href="mailto:lemkharbechy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yahya-lemkharbech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yahya_lem02"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dev.to/yahyalem02"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
 ---
-
-### 🌟 Fun Facts
-
-- 📚 I read a technical book every month
-- 🌱 I cultivate indoor plants to stay connected with nature
-- 🎯 I solve at least one coding challenge daily
-- 🌍 I speak 4 languages: Arabic, English, French, and basic Japanese
-- 🕌 I find peace in prayer and meditation
 
 ---
 
