@@ -74,25 +74,6 @@
 </p>
 
 
-
----
-
-### 🚀 Open Source Contributions
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Contributed_to-25+-brightgreen?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Issues_Solved-78+-blue?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pull_Requests-92+-orange?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🏆 Achievements
