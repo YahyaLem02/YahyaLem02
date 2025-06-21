@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 السلام عليكم | Peace be upon you</h1>
 <h2 align="center">YAHYA LEMKHARBECH</h2>
-<h3 align="center">🕌 Moroccan Full Stack Developer | 🇲🇦 Proud Muslim | 💡 Lifelong Learner</h3>
+<h3 align="center">👨‍🎓 Future Information Systems Engineer | 🇲🇦 Moroccan Full Stack Developer | 💡 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&duration=4000&color=F49E38&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Code+with+purpose.;📿+Seek+knowledge+from+the+cradle+to+the+grave."/>
@@ -9,11 +9,13 @@
 ---
 
 ### 🌍 About Me:
-- 🏠 *From Morocco*, heart rooted in faith and simplicity.
-- 🎓 *Master's Student* in Information Systems Engineering (FSSM)
-- 🛠 *Crafting:* Full stack solutions using Java, Spring, React, Laravel & more.
-- 💼 *Freelancing:* Web & mobile projects to empower clients across World.
-- 🤲 *Belief:* "وَقُل رَّبِّ زِدْنِي عِلْمًا" — *"My Lord, increase me in knowledge"* 
+
+- 🇲🇦 **Proudly from Morocco**, driven by simplicity, ambition, and purpose.
+- 🎓 **Master’s student in Information Systems Engineering** at FSSM Marrakech — focusing on AI, DevOps, and software engineering.
+- 👨‍💻 **Full Stack Developer** — building robust, scalable solutions with Java, Spring Boot, React.js, Laravel, and modern web technologies.
+- 💼 **Freelancer** — delivering impactful web and mobile projects to help clients bring their ideas to life.
+- 🧠 **Passionate about learning**, growth, and meaningful technology that solves real problems.
+- 🤲 **Belief:** *"وَقُل رَّبِّ زِدْنِي عِلْمًا"* — “My Lord, increase me in knowledge.”
 
 ---
 
