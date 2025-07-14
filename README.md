@@ -16,23 +16,56 @@
 - 💼 **Freelancer** — delivering impactful web and mobile projects to help clients bring their ideas to life.
 - 🧠 **Passionate about learning**, growth, and meaningful technology that solves real problems.
 - 🤲 **Belief:** *"وَقُل رَّبِّ زِدْنِي عِلْمًا"* — “My Lord, increase me in knowledge.”
+- 🌐 **Portfolio:** [lemkharbech-yahya.vercel.app](https://lemkharbech-yahya.vercel.app/) 🚀
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Stats & Creativity Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=radical" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical" alt="GitHub streak"/>
-</p>
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=radical" height="160"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical" alt="Activity Graph"/>
-</p>
+<!-- Streak -->
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical" alt="GitHub streak"/>
+
+<!-- Profile Details -->
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical" alt="Activity Graph"/>
+
+<!-- Contribution Calendar -->
+<br>
+<img src="https://github-contribution-graph.vercel.app/api?username=YahyaLem02&theme=radical" height="120"/>
+
+<!-- 3D Contribution Graph - WOW effect -->
+<br>
+<a href="https://skyline.github.com/YahyaLem02/2024"><img src="https://github.com/YahyaLem02/YahyaLem02/blob/main/assets/skyline.gif?raw=true" alt="3D Skyline" height="160"/></a>
+
+<!-- Metrics Dashboard -->
+<br>
+<img src="https://metrics.lecoq.io/YahyaLem02?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&achievements=1&lines=1&activity=1&base.indepth=false&base.hireable=false&config.timezone=Africa/Casablanca" alt="Metrics Dashboard" height="160"/>
+
+</div>
+
+---
+
+### 🎨 Creativity & "WOW" Zone
+
+<div align="center">
+
+<!-- Animated Snake Graph -->
+<img src="https://github.com/YahyaLem02/YahyaLem02/blob/output/github-contribution-grid-snake.svg" alt="Animated Snake" width="600"/>
+
+<!-- Custom Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,100:ffcc00&height=180&section=header&text=YAHYA%20LEMKHARBECH%20-%20Moroccan%20FullStack&fontSize=38&fontAlignY=45&desc=AI%20%7C%20DevOps%20%7C%20Innovation%20%7C%20Creativity&descAlignY=70&descAlign=60"/>
+
+<!-- "Code & Faith" Quote -->
+<img src="https://readme-quotes.vercel.app/api?theme=radical&quote=Code%20with%20sincerity.%20Build%20with%20purpose.%20Trust%20in%20Allah." width="400"/>
+
+</div>
 
 ---
 
@@ -98,8 +131,6 @@
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
-
-
 ---
 
 ### 🏆 Achievements
@@ -108,7 +139,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
-
 ---
 
 ### 📬 Connect With Me
@@ -116,9 +146,8 @@
 <p align="center">
   <a href="mailto:lemkharbechy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yahya-lemkharbech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://lemkharbech-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
----
 
 ---
 
@@ -132,3 +161,11 @@
   <img src="https://img.shields.io/github/followers/YahyaLem02?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/YahyaLem02?style=social" alt="GitHub Stars"/>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmadawais/shields/master/badges/coding-hours.svg" alt="Coding Hours"/>
+  <img src="https://raw.githubusercontent.com/ahmadawais/shields/master/badges/hacker.svg" alt="Hacker"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20YahyaLem02-orange?style=flat-square"/>
+</div>
