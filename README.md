@@ -8,47 +8,30 @@
 
 ---
 
-## 📚 Table of Contents
-
-- 🌍 [About Me](#-about-me)
-- 📊 [GitHub Stats & Dashboards](#-github-stats--dashboards)
-- 🛠️ [Tech Stack & Skills](#-tech-stack--skills)
-- 🚀 [Projects Spotlight](#-projects-spotlight)
-- 🏆 [Achievements](#-achievements)
-- 📬 [Connect with Me](#-connect-with-me)
-
----
-
 ### 🌍 About Me:
 
-- 🇲🇦 **Proudly from Morocco**, driven by simplicity, ambition, and purpose.
-- 🎓 **Master’s student in Information Systems Engineering** at FSSM Marrakech — focusing on AI, DevOps, and software engineering.
-- 👨‍💻 **Full Stack Developer** — building robust, scalable solutions with Java, Spring Boot, React.js, Laravel, and modern web technologies.
-- 💼 **Freelancer** — delivering impactful web and mobile projects.
-- 🧠 **Passionate about learning**, growth, and meaningful technology.
-- 🤲 **Belief:** *"وَقُل رَّبِّ زِدْنِي عِلْمًا"* — “My Lord, increase me in knowledge.”
-- 🌐 **Portfolio:** [lemkharbech-yahya.vercel.app](https://lemkharbech-yahya.vercel.app/) 🚀
+- 🇲🇦 *Proudly from Morocco*, driven by simplicity, ambition, and purpose.
+- 🎓 *Master’s student in Information Systems Engineering* at FSSM Marrakech — focusing on AI, DevOps, and software engineering.
+- 👨‍💻 *Full Stack Developer* — building robust, scalable solutions with Java, Spring Boot, React.js, Laravel, and modern web technologies.
+- 💼 *Freelancer* — delivering impactful web and mobile projects to help clients bring their ideas to life.
+- 🧠 *Passionate about learning*, growth, and meaningful technology that solves real problems.
+- 🤲 *Belief:* "وَقُل رَّبِّ زِدْنِي عِلْمًا" — “My Lord, increase me in knowledge.”
 
 ---
 
-### 📊 GitHub Stats & Dashboards
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical"/>
-  <img src="https://github-contribution-graph.vercel.app/api?username=YahyaLem02&theme=radical" height="140"/>
-  <a href="https://skyline.github.com/YahyaLem02/2024">
-    <img src="https://github.com/YahyaLem02/YahyaLem02/blob/main/assets/skyline.gif?raw=true" alt="3D Skyline" height="180"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/YahyaLem02?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&languages=1&followup=1&stars=1&projects=1&lines=1&achievements=1&base.indepth=true&config.timezone=Africa%2FCasablanca" alt="Metrics Dashboard" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical" alt="Activity Graph"/>
 </p>
 
 ---
@@ -119,24 +102,12 @@
 
 ---
 
-
-
-### 🚀 Projects Spotlight
-
-📌 _Here are some highlighted works I'm proud of:_
-
-- 🔧 **[Purchase Request Management App](#)** — Web app for optimizing purchase flows (Java Spring + React).
-- 📱 **[Volunteer Registration Platform](#)** — Built for a local association in Safi.
-- 🎯 **[AI-based Q&A University Platform](#)** — In development: for academic collaboration (text + voice + images).
-- 💻 **[More on my Portfolio](https://lemkharbech-yahya.vercel.app/)**
-
----
-
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
+
 
 ---
 
@@ -145,42 +116,19 @@
 <p align="center">
   <a href="mailto:lemkharbechy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yahya-lemkharbech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://lemkharbech-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
-
-### 💡 Extras
-
-<p align="center">
-  <img src="https://github.com/YahyaLem02/YahyaLem02/blob/output/github-contribution-grid-snake.svg" width="600" alt="Snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,100:ffcc00&height=180&section=header&text=YAHYA%20LEMKHARBECH&fontSize=38&fontAlignY=45&desc=Full%20Stack%20Dev%20|%20AI%20Lover%20|%20Future%20Engineer&descAlignY=70&descAlign=60"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=radical&quote=Code%20with%20sincerity.%20Build%20with%20purpose.%20Trust%20in%20Allah." width="400"/>
-</p>
 
 ---
 
 <h3 align="center">✨ "Code with sincerity. Build with purpose. Trust in Allah." ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YahyaLem02&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=YahyaLem02&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YahyaLem02?style=social"/>
-  <img src="https://img.shields.io/github/stars/YahyaLem02?style=social"/>
+  <img src="https://img.shields.io/github/followers/YahyaLem02?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/YahyaLem02?style=social" alt="GitHub Stars"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmadawais/shields/master/badges/coding-hours.svg"/>
-  <img src="https://raw.githubusercontent.com/ahmadawais/shields/master/badges/hacker.svg"/>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20YahyaLem02-orange?style=flat-square"/>
-</div>
