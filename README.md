@@ -1,39 +1,82 @@
 <h1 align="center">👨‍💻 السلام عليكم | Peace be upon you</h1>
-<h2 align="center">YAHYA LEMKHARBECH</h2>
-<h3 align="center">🚀 Aspiring Information Systems Engineer | 🇲🇦 Full Stack Developer from Morocco | 🌱 Curious Soul & Lifelong Learner</h3>
+
+<h2 align="center">I’m Yahya Lemkharbech</h2>
+<h3 align="center">🚀 Master’s Student in Information Systems Engineering | 🇲🇦 Full Stack Developer | 💻 Tech Artisan | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&duration=4000&color=F49E38&center=true&vCenter=true&lines=Crafting+code+with+intention.;Empowering+ideas+through+technology.;📿+Learning+is+a+lifelong+ibadah.;📘+“My+Lord,+increase+me+in+knowledge...”"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&duration=4000&color=F49E38&center=true&vCenter=true&lines=Welcome+to+my+world!;Code+with+purpose.;Faith+%7C+Focus+%7C+Function.;“My+Lord,+increase+me+in+knowledge...”"/>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="coding gif"/>
+</div>
+
+---
+
+## ✨ About Me
+
+> “I’m not just writing code — I’m building bridges between ideas and reality.”
+
+👨‍🎓 I’m currently pursuing a **Master’s degree in Information Systems Engineering** at **FSSM Marrakech**, in partnership with European universities.
+
+🎯 My focus:  
+`Artificial Intelligence` · `Software Engineering` · `DevOps` · `Cybersecurity` · `Cloud Computing`
+
+💼 As a **full stack developer**, I work with technologies like:  
+`Spring Boot` · `Laravel` · `React` · `Tailwind CSS` · `MySQL` · `Docker` · and more.
+
+🌍 I’m passionate about building apps that **solve real-world problems**, using clean architecture, design patterns, and purpose-driven logic.
+
+🕊️ My philosophy is deeply inspired by my culture, faith, and the belief that knowledge is a lifelong journey.
+
+---
+
+## 💻 My Portfolio
+
+🎨 Dive into my projects, journey, and skills through my personal portfolio:
+
+<p align="center">
+  <a href="https://lemkharbech-yahya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-F49E38?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🌍 Who Am I?
+## 🧰 Tech Stack
 
-> “Behind every line of code lies a story, and I’m here to write mine.”
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
 
-- 🇲🇦 **From the heart of Morocco** — blending culture, creativity, and code.
-- 🎓 **Master’s student** in *Information Systems Engineering* at FSSM Marrakech, diving deep into:
-  - Artificial Intelligence 🤖
-  - DevOps & Security 🛠️
-  - Distributed Systems & Cloud ☁️
-- 👨‍💻 **Full Stack Developer** with hands-on experience in:
-  - Laravel, Spring Boot, React, TailwindCSS, MySQL, and more.
-- 🔨 **Freelancer & Builder** — I bring ideas to life with clean, scalable, and meaningful solutions.
-- 🧠 **Autodidacte & Passionné** — every day is an opportunity to grow.
-- 🤲 **Guided by values** — purpose, faith, and integrity in every step.
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python" />
+</p>
+
+### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,oracle" />
+</p>
+
+### 🛠 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,git,jenkins,vscode" />
+</p>
+
+### 📐 Methods & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-232F3E?style=for-the-badge&logo=oop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-FFFFFF?style=for-the-badge&logo=uml&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Merise-007396?style=for-the-badge&logo=merise&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20Pattern-8E44AD?style=for-the-badge&logo=pattern&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-4B8BBE?style=for-the-badge&logo=rest&logoColor=white"/>
+</p>
 
 ---
 
-### 💼 What Drives Me
-
-> "Code with sincerity. Build with purpose. Trust in Allah."
-
-I believe in building tech that **resonates with real people**, solves real problems, and stays true to who we are. My goal isn’t just to be a developer — but to be a **positive force** in this digital world, inshAllah.
-
----
-
-### 📊 GitHub Insights
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=radical" height="160"/>
@@ -41,85 +84,62 @@ I believe in building tech that **resonates with real people**, solves real prob
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical" alt="GitHub Activity"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical"/>
 </p>
-
----
-
-### 🧠 Tech Toolbox
-
-> "*Not just tools. These are my paintbrushes.*"
-
-#### 👨‍💻 Languages
-`Java` · `C` · `C++` · `PHP` · `JavaScript` · `Python`
-
-#### 🌐 Web Development
-`HTML` · `CSS` · `Tailwind` · `Bootstrap` · `React` · `Laravel` · `Spring Boot`
-
-#### 🗃 Databases
-`MySQL` · `PostgreSQL` · `Oracle` · `Firebase`
-
-#### ⚙ DevOps & Tools
-`Git` · `GitHub` · `Docker` · `Jenkins` · `CI/CD` · `Scrum`
-
-#### 🧭 Operating Systems
-`Ubuntu` · `Kali Linux` · `Fedora` · `Windows`
-
-#### 📐 Methodologies & Concepts
-`OOP` · `UML` · `Merise` · `REST APIs` · `Design Patterns` · `Agile`
-
----
-
-### 🧗‍♂️ Projects & Practice
-
-> 💡 I believe small projects are **stepping stones** to bigger ideas.
-
-✅ RADEEMA Internal Tools  
-✅ SRM Procurement Web App  
-✅ Accueil Étudiants Volunteer Management System  
-✅ Personal Website & Portfolio  
-✅ Multiple GitHub Repos exploring DI, Spring, Laravel, Auth systems…
-
-Explore them here 👉 [GitHub Projects](https://github.com/YahyaLem02)
-
----
-
-### 🏆 Trophies of Progress
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical" />
 </p>
 
 ---
 
-### 🔗 Let’s Connect
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&row=2&column=4" />
+</p>
+
+---
+
+## 🎓 Certifications & Goals
+
+- ✅ *Google Cloud with Java & Spring Boot* (Coursera)
+- 🛠️ Working on DevOps & System Security Certifications
+- 📘 Always open to new skills, languages & challenges
+
+---
+
+## 💬 Life & Philosophy
+
+> *"وَقُل رَّبِّ زِدْنِي عِلْمًا"* — Surah Taha, 114  
+> “Build with purpose. Stay humble. Trust the process.”
+
+⚡ I'm deeply motivated by the desire to uplift others through technology — and to craft elegant, robust systems that reflect sincerity and technical excellence.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
+</div>
+
+---
+
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="mailto:lemkharbechy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yahya-lemkharbech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://lemkharbech-yahya.vercel.app/"><img src="https://img.shields.io/badge/My+Portfolio-F49E38?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://lemkharbech-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F49E38?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### ✨ Extras That Matter
-
-- 🌱 **Learning Platforms**: Coursera | OpenAI | MDN | Java Guides  
-- 🏅 **Certifications**:  
-  - ✅ *Google Cloud & Java Spring Boot (Coursera)*  
-  - 🎯 More incoming in DevOps & Security...
-
-- 🕊️ **Life Motto**:  
-> *“Simplicity is the ultimate sophistication.”* — Leonardo da Vinci  
-> *"وَقُل رَّبِّ زِدْنِي عِلْمًا"* — Surah Taha, 114
-
----
+## 🧭 Metrics & Support
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YahyaLem02&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YahyaLem02&label=Profile%20Views&color=blueviolet&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/YahyaLem02?style=social" />
   <img src="https://img.shields.io/github/stars/YahyaLem02?style=social" />
 </p>
 
-<h3 align="center">🧭 From Zemamra to the Cloud — just getting started.</h3>
+---
+
+<h3 align="center">🚀 “From Morocco to the world... one line of code at a time.”</h3>
