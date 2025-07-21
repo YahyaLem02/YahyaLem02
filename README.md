@@ -76,7 +76,6 @@ mission: >
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F49E38&icon_color=F49E38&text_color=FFF&count_private=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F49E38&text_color=FFF"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical&hide_border=true&background=0D1117&stroke=F49E38&ring=F49E38&fire=F49E38&currStreakLabel=FFF"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaLem02&theme=react-dark&bg_color=0D1117&color=F49E38&line=F49E38&point=FFFFFF&area=true&hide_border=true"/>
 
