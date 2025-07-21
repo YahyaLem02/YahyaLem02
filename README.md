@@ -17,7 +17,7 @@
 
 > “I’m not just writing code — I’m building bridges between ideas and reality.”
 
-👨‍🎓 I’m currently pursuing a **Master’s degree in Information Systems Engineering** at **FSSM Marrakech**, in partnership with European universities.
+👨‍🎓 I’m currently pursuing a **Master’s degree in Information Systems Engineering** at **FSSM Marrakech**.
 
 🎯 My focus:  
 `Artificial Intelligence` · `Software Engineering` · `DevOps` · `Cybersecurity` · `Cloud Computing`
