@@ -15,11 +15,21 @@
 ```yaml
 name: "Yahya Lemkharbech"
 location: "Morocco 🇲🇦"
-current_status: "Master's Student @ FSSM Marrakech"
-specialization: "Information Systems Engineering"
-passion: ["AI", "DevOps", "Cloud Architecture", "Clean Code"]
-philosophy: "وَقُل رَّبِّ زِدْنِي عِلْمًا - My Lord, increase me in knowledge"
-mission: "Transform ideas into scalable, meaningful solutions"
+current_status: "Master's Student in Information Systems Engineering @ FSSM Marrakech"
+roles:
+  - "Backend Engineer"
+  - "DevOps & Cloud Enthusiast"
+specialization: "Robust Systems · Scalable Architectures · Clean Code"
+passion:
+  - "Designing secure and scalable backend systems"
+  - "Automating deployments with DevOps best practices"
+  - "Exploring AI for smarter applications"
+  - "Building cloud-native solutions with a developer’s soul"
+  - "Writing code that breathes clarity and maintainability"
+philosophy: "وَقُل رَّبِّ زِدْنِي عِلْمًا – My Lord, increase me in knowledge"
+mission: >
+  Craft backend systems and cloud solutions that are not just functional, but elegant, efficient, and made to last.
+"
 ```
 
 <div align="center">
@@ -82,36 +92,7 @@ mission: "Transform ideas into scalable, meaningful solutions"
 
 </div>
 
----
 
-## 🎓 Learning Journey & Certifications
-
-<div align="center">
-
-```mermaid
-timeline
-    title My Learning Path
-    
-    2023 : Google Cloud with Java & Spring Boot
-         : DevOps Fundamentals
-    
-    2024 : System Security
-         : Cloud Architecture
-         : Advanced AI/ML
-    
-    2025 : Kubernetes & Microservices
-         : Advanced Cloud Solutions
-```
-
-</div>
-
-### 📜 Current Certifications
-- 🌟 **Google Cloud with Java & Spring Boot** (Coursera)
-- 🚀 **DevOps Fundamentals** (In Progress)
-- 🔐 **System Security** (Ongoing)
-- ☁️ **Cloud Architecture** (Learning)
-
----
 
 ## 💭 Philosophy & Inspiration
 
@@ -165,15 +146,6 @@ timeline
 
 </div>
 
----
-
-## 🎵 Currently Coding To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatora&show_offline=false&background_color=0d1117&interchange=false&bar_color=F49E38)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
 
 ---
 
