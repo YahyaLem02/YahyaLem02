@@ -17,19 +17,19 @@ name: "Yahya Lemkharbech"
 location: "Morocco 🇲🇦"
 current_status: "Master's Student in Information Systems Engineering @ FSSM Marrakech"
 roles:
-  - "Backend Engineer"
+  - "Full Stack Developer"
   - "DevOps & Cloud Enthusiast"
 specialization: "Robust Systems · Scalable Architectures · Clean Code"
 passion:
-  - "Designing secure and scalable backend systems"
-  - "Automating deployments with DevOps best practices"
-  - "Exploring AI for smarter applications"
-  - "Building cloud-native solutions with a developer’s soul"
-  - "Writing code that breathes clarity and maintainability"
+  - "Building dynamic and maintainable web applications from front to back"
+  - "Automating workflows and exploring cloud technologies"
+  - "Bringing ideas to life through clean and thoughtful code"
+  - "Exploring AI to enhance the development experience"
+  - "Always learning, always improving"
 philosophy: "وَقُل رَّبِّ زِدْنِي عِلْمًا – My Lord, increase me in knowledge"
 mission: >
-  Craft backend systems and cloud solutions that are not just functional, but elegant, efficient, and made to last.
-"
+  Deliver full stack solutions that balance simplicity, performance, and long-term maintainability — with curiosity driving every line of code.
+
 ```
 
 <div align="center">
