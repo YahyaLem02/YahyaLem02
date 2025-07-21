@@ -1,15 +1,12 @@
 <h1 align="center">👨‍💻 السلام عليكم | Peace be upon you</h1>
 
 <h2 align="center">I'm Yahya Lemkharbech</h2>
-<h3 align="center">🚀 DevOps & Cloud Enthusiast | 💻 Full Stack Developer | 🇲🇦 Passionate Tech Explorer</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 DevOps & Cloud Enthusiast | 🇲🇦 Passionate Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&duration=4000&color=F49E38&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Code+with+purpose.;📿+Seek+knowledge+from+the+cradle+to+the+grave."/>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-</div>
 
 ---
 
@@ -17,11 +14,11 @@
 
 > “Not just writing code — building meaningful systems.”
 
-🎓 Master’s student in **Information Systems Engineering** at **FSSM Marrakech**  
+🎓 Master’s student in Information Systems Engineering at FSSM Marrakech — focusing on AI, DevOps, and software engineering.
 💡 I’m driven by simplicity, clean architecture, and the power of purposeful code  
-🛠️ DevOps is my playground · Cloud is my space · Backend is my logic  
-
 🌍 My goal? Turn real-world needs into stable, scalable solutions.
+🤲 Belief: "وَقُل رَّبِّ زِدْنِي عِلْمًا" — “My Lord, increase me in knowledge.”
+
 
 ---
 
