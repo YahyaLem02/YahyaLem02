@@ -4,7 +4,7 @@
 <h3 align="center">🚀 DevOps & Cloud Enthusiast | 💻 Full Stack Developer | 🇲🇦 Passionate Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F49E38&center=true&vCenter=true&width=435&lines=Code+with+purpose.;DevOps+is+my+playground.;Cloud+and+Clean+Code.;My+Lord,+increase+me+in+knowledge..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&duration=4000&color=F49E38&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Code+with+purpose.;📿+Seek+knowledge+from+the+cradle+to+the+grave."/>
 </p>
 
 <div align="center">
@@ -18,11 +18,10 @@
 > “Not just writing code — building meaningful systems.”
 
 🎓 Master’s student in **Information Systems Engineering** at **FSSM Marrakech**  
-🚀 DevOps & Cloud Enthusiast · Backend & Full Stack Developer  
-💡 Passionate about building **scalable**, **secure**, and **efficient** digital solutions  
-🛠️ Development is my core, DevOps is my passion, and learning is my fuel.  
+💡 I’m driven by simplicity, clean architecture, and the power of purposeful code  
+🛠️ DevOps is my playground · Cloud is my space · Backend is my logic  
 
-🌱 I'm driven by purpose, simplicity, and the belief that **code can uplift**.
+🌍 My goal? Turn real-world needs into stable, scalable solutions.
 
 ---
 
@@ -56,7 +55,7 @@
 
 ### 🧪 DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,git,jenkins,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=docker,github,git,jenkins,vscode,idea" />
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
@@ -98,18 +97,18 @@
 
 ## 🎯 Certifications & Goals
 
-- 🎓 *Google Cloud with Java & Spring Boot* (Coursera)
-- 📚 Ongoing: *DevOps*, *System Security*, *Cloud Architecture*
-- 🚧 Always exploring new tech horizons
+- 📜 *Google Cloud with Java & Spring Boot* (Coursera)  
+- 🎯 Ongoing: *DevOps*, *System Security*, *Cloud Architecture*  
+- 🚀 Always learning, always adapting  
 
 ---
 
 ## 💬 Life & Philosophy
 
 > *"وَقُل رَّبِّ زِدْنِي عِلْمًا"* — Surah Taha, 114  
-> "Build with purpose. Stay humble. Trust the process."
+> "Build with intention. Learn with sincerity. Grow with humility."
 
-⚡ I aim to **craft systems** that are **functional**, **secure**, and **sincere** — code is an act of intention.
+⚡ To me, code is not just syntax — it’s **an extension of thought**, meant to bring clarity, impact, and beauty.
 
 <div align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="280" />
