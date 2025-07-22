@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YAHYA%20LEMKHARBECH&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white" />
+# ✨ YAHYA LEMKHARBECH ✨
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lemkharbechyahya.me-2ea44f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://lemkharbechyahya.me)
 
@@ -139,30 +139,24 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
-<details open>
-<summary><h2>📬 Connect With Me</h2></summary>
-<br>
-
 <div align="center">
-  
-<a href="https://linkedin.com/in/yahya-lemkharbech">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="mailto:lemkharbechy@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4099-a5f4-0306bdad0a7c.png"/>
-</a>
-<a href="https://lemkharbechyahya.me">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
+
+## 📬 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/yahya-lemkharbech">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lemkharbechy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://lemkharbechyahya.me">
+    <img src="https://img.shields.io/badge/Portfolio-1A2C34?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=YahyaLem02&style=for-the-badge&color=16a085" alt="Profile Views" />
 
-</div>
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-
-<div align="center">
 <h3>✨ "Code with sincerity. Build with purpose. Trust in Allah." ✨</h3>
+
 </div>
