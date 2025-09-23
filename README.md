@@ -35,7 +35,6 @@
 
 </details>
 
-<img align="center" alt="coding-boy" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_animated.svg" />
 
 <details open>
 <summary><h2>🧩 Tech Stack & Skills</h2></summary>
