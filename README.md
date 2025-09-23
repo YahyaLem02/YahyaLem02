@@ -33,6 +33,8 @@
 - 💼 **Freelancer** — delivering impactful web and mobile projects
 - 🚀 Passionate about learning, growth, and meaningful technology
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="line" width="100%">
+
 </details>
 
 
