@@ -10,7 +10,7 @@
 
 **Future Information Systems Engineer | 🇲🇦 Moroccan Full Stack Developer | 💡 Lifelong Learner**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78D1D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Code+with+purpose;Seek+knowledge+from+cradle+to+grave" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78D1D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Code+with+purpose;Seek+knowledge+from+cradle+to+grave" alt="Typing SVG" />
 
 </div>
 
