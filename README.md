@@ -35,7 +35,7 @@
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="line" width="100%">
+<img align="center" alt="coding-boy" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_animated.svg" />
 
 <details open>
 <summary><h2>🧩 Tech Stack & Skills</h2></summary>
