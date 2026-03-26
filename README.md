@@ -1,163 +1,202 @@
 <div align="center">
-  
-# ✨ YAHYA LEMKHARBECH ✨
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lemkharbechyahya.me-2ea44f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://lemkharbechyahya.me)
+<!-- HEADER: MATRIX-STYLE INTRO -->
+```
+██╗   ██╗ █████╗ ██╗  ██╗██╗   ██╗ █████╗ 
+╚██╗ ██╔╝██╔══██╗██║  ██║╚██╗ ██╔╝██╔══██╗
+ ╚████╔╝ ███████║███████║ ╚████╔╝ ███████║
+  ╚██╔╝  ██╔══██║██╔══██║  ╚██╔╝  ██╔══██║
+   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f78d1d&height=220&section=header&text=Yahya%20Lemkharbech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20digital%20experiences%20from%20Marrakech%20to%20the%20world%20🌍&descSize=16&descAlignY=55&descColor=f78d1d" width="100%"/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lemkharbechyahya.me-f78d1d?style=for-the-badge&logoColor=white)](https://lemkharbechyahya.me)
+[![Profile Views](https://komarev.com/ghpvc/?username=YahyaLem02&style=for-the-badge&color=f78d1d)](https://github.com/YahyaLem02)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F78D1D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%7B+%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85+%7C+Peace+be+upon+you+%7D;%E2%9A%A1+Full+Stack+Engineer+%7C+AI+Explorer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+
+</div>
+
+<!-- ABOUT SECTION: TERMINAL STYLE -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 
-## `{ السلام عليكم | Peace be upon you }`
+## 🖥️ `> whoami`
 
-**Future Information Systems Engineer | 🇲🇦 Moroccan Full Stack Developer | 💡 Lifelong Learner**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78D1D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Code+with+purpose;Seek+knowledge+from+cradle+to+grave" alt="Typing SVG" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line" width="100%">
-
-<details open>
-<summary><h2>👨‍💻 About Me</h2></summary>
-<br>
-
-<div align="center">
-  <img align="right" width="350" src="https://gifdb.com/images/high/coding-function-animation-fe7t4gejurmtof8v.gif"/>
-</div>
-
-> 🧠 _"وَقُل رَّبِّ زِدْنِي عِلْمًا" — "My Lord, increase me in knowledge."_
-
-- 🌍 Proudly from **Morocco** — driven by simplicity, ambition, and purpose
-- 🎓 Master's student in **Information Systems Engineering** at FSSM Marrakech
-- 🔍 Focusing on **AI**, **DevOps**, and **Software Engineering**
-- 👨‍💻 **Full Stack Developer** — building robust, scalable solutions
-- 💼 **Freelancer** — delivering impactful web and mobile projects
-- 🚀 Passionate about learning, growth, and meaningful technology
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="line" width="100%">
-
-</details>
-
-
-<details open>
-<summary><h2>🧩 Tech Stack & Skills</h2></summary>
-
-<br>
+```javascript
+const yahya = {
+    location: "Marrakech, Morocco 🇲🇦",
+    education: "MSc Information Systems Engineering @ FSSM",
+    roles: ["Full Stack Developer", "Freelancer", "AI Enthusiast"],
+    currentFocus: ["Artificial Intelligence", "DevOps", "Software Architecture"],
+    philosophy: "وَقُل رَّبِّ زِدْنِي عِلْمًا — My Lord, increase me in knowledge.",
+    lifeGoal: "Build tech that matters, with sincerity and purpose.",
+    funFact: "I debug with mint tea 🍵 and lo-fi beats 🎵"
+};
+```
 
 <div align="center">
-
-### 🧠 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### ⚙ DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-</p>
-
-### 💻 Operating Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
-### 🧠 Methods & Design
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-232F3E?style=for-the-badge&logo=oop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Merise-007396?style=for-the-badge&logo=merise&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UML-FFFFFF?style=for-the-badge&logo=uml&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Design%20Pattern-8E44AD?style=for-the-badge&logo=pattern&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-4B8BBE?style=for-the-badge&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-</p>
-
-</div>
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="line" width="100%">
-
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-<br>
-
-<div align="center">
-  
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🎯 Current Quests
+```
+🔬 Exploring AI & Machine Learning
+🏗️ Architecting scalable systems
+🐳 Containerizing everything with Docker
+🔄 Automating CI/CD pipelines
+🌱 Contributing to open source
+```
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Stats
+```
+☕ Cups of coffee today ........ ∞
+🐛 Bugs fixed this week ....... 42
+📚 Books in reading list ....... 7
+🚀 Projects deployed .......... ███████░ 70%
+💡 Ideas in backlog ........... overflow
+```
+
+</td>
+</tr>
 </table>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YahyaLem02&theme=radical" alt="GitHub Profile Summary" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-
 </div>
 
-</details>
-
+<!-- TECH ARSENAL -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+
+## ⚔️ `> cat tech_arsenal.yml`
 
 <div align="center">
 
-## 📬 Let's Connect
+```yaml
+languages:
+  expert:    [ Java ☕, Python 🐍, JavaScript ⚡ ]
+  proficient: [ C, C++, PHP ]
+
+frontend:
+  frameworks: [ React ⚛️, TailwindCSS 🎨, Bootstrap ]
+  core:       [ HTML5, CSS3, JavaScript ]
+
+backend:
+  frameworks: [ Spring Boot 🍃, Laravel 🔴 ]
+  apis:       [ REST, GraphQL ]
+
+databases:
+  relational: [ MySQL 🐬, PostgreSQL 🐘, Oracle ]
+  nosql:      [ Firebase 🔥 ]
+
+devops:
+  containers: [ Docker 🐳 ]
+  ci_cd:      [ Jenkins, GitHub Actions ]
+  vcs:        [ Git, GitHub ]
+
+os:
+  daily:  [ Linux 🐧, Ubuntu ]
+  tools:  [ Kali Linux, Fedora, Windows ]
+
+methodology:
+  practices:  [ Scrum, OOP, Design Patterns ]
+  modeling:   [ UML, Merise ]
+```
+
+</div>
+
+<div align="center">
+
+### 🛠️ Visual Stack
 
 <p>
-  <a href="https://linkedin.com/in/yahya-lemkharbech">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lemkharbechy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://lemkharbechyahya.me">
-    <img src="https://img.shields.io/badge/Portfolio-1A2C34?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,php&theme=dark" alt="Languages"/>
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,laravel,mysql,postgres,firebase&theme=dark" alt="Backend & DB"/>
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,ubuntu&theme=dark" alt="DevOps & OS"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YahyaLem02&style=for-the-badge&color=16a085" alt="Profile Views" />
+</div>
 
-<h3>✨ "Code with sincerity. Build with purpose. Trust in Allah." ✨</h3>
+<!-- GITHUB STATS: DASHBOARD STYLE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+
+## 📡 `> git log --stat`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaLem02&custom_title=Yahya's%20Contribution%20Graph&bg_color=0d1117&color=f78d1d&line=f78d1d&point=ffffff&area_color=f78d1d&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<br/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=f78d1d&icon_color=f78d1d&text_color=c9d1d9&ring_color=f78d1d" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=f78d1d&text_color=c9d1d9" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaLem02&theme=dark&hide_border=true&background=0D1117&stroke=f78d1d&ring=f78d1d&fire=ff6600&currStreakLabel=f78d1d&sideLabels=f78d1d&dates=555555" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YahyaLem02&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YahyaLem02/YahyaLem02/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YahyaLem02/YahyaLem02/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/YahyaLem02/YahyaLem02/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<!-- CONNECT SECTION -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+
+## 🤝 `> ssh connect@yahya`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yahya-lemkharbech">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:lemkharbechy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://lemkharbechyahya.me">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_my_work-f78d1d?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   "Code with sincerity. Build with purpose.                  │
+│    Trust in Allah. Repeat." ✨                               │
+│                                                              │
+│                               — Yahya Lemkharbech, 2025      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f78d1d&height=120&section=footer" width="100%"/>
