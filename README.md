@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- HEADER: Matrix-style animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F78D1D,100:16a085&height=220&section=header&text=YAHYA%20LEMKHARBECH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20Architect%20of%20Digital%20Dreams%20%E2%9C%A6&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<!-- HEADER: Clean animated gradient banner — no subtitle -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F78D1D,100:16a085&height=200&section=header&text=YAHYA%20LEMKHARBECH&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<!-- Terminal-style greeting -->
-```
-██╗   ██╗ █████╗ ██╗  ██╗██╗   ██╗ █████╗ 
-╚██╗ ██╔╝██╔══██╗██║  ██║╚██╗ ██╔╝██╔══██╗
- ╚████╔╝ ███████║███████║ ╚████╔╝ ███████║
-  ╚██╔╝  ██╔══██║██╔══██║  ╚██╔╝  ██╔══██║
-   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+<!-- Animated greeting — same vibe as old profile -->
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=16A085&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami+%E2%86%92+Full+Stack+Engineer+%F0%9F%87%B2%F0%9F%87%A6;%24+cat+mission.txt+%E2%86%92+%22Code+with+sincerity.+Build+with+purpose.%22;%24+echo+%24PASSION+%E2%86%92+AI+%7C+DevOps+%7C+Software+Engineering" alt="Typing SVG" />
+## `{ السلام عليكم | Peace be upon you }`
+
+**Future Information Systems Engineer | 🇲🇦 Moroccan Full Stack Developer | 💡 Lifelong Learner**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16A085&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Code+with+purpose+%F0%9F%94%A5;Seek+knowledge+from+cradle+to+grave+%F0%9F%93%9A;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -25,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME: Terminal-style bio -->
+<!-- ABOUT ME -->
 
 <table>
 <tr>
@@ -90,11 +87,9 @@ const yahya = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> neofetch --tech-stack` 🧩
+## 🧩 Tech Stack & Skills
 
 <div align="center">
-
-<!-- Languages: styled as a futuristic dashboard -->
 
 <table>
 <tr><td align="center" width="50%">
@@ -150,18 +145,20 @@ const yahya = {
 
 ### 🧠 Methodologies & Architecture
 
-```
-┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-│  🏗️  OOP     │  │  📐  UML     │  │  🔄  Scrum   │  │  🎯  Design  │  │  🔌  REST    │
-│              │  │              │  │              │  │   Patterns   │  │    APIs      │
-└──────────────┘  └──────────────┘  └──────────────┘  └──────────────┘  └──────────────┘
-```
+<p>
+  <img src="https://img.shields.io/badge/OOP-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UML-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Merise-007396?style=for-the-badge"/>
+</p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> git log --graph --stats` 📊
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -174,7 +171,6 @@ const yahya = {
 
 <br><br>
 
-<!-- Stats in a futuristic grid -->
 <a href="https://github.com/YahyaLem02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YahyaLem02&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=16A085&icon_color=F78D1D&text_color=FFFFFF&ring_color=16A085" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLem02&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=16A085&text_color=FFFFFF" />
@@ -195,24 +191,24 @@ const yahya = {
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaLem02&bg_color=0D1117&color=16A085&line=F78D1D&point=FFFFFF&area_color=16A085&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaLem02&bg_color=0D1117&color=16A085&line=F78D1D&point=FFFFFF&area_color=16A085&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Graph" width="100%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> ping connect.social` 📡
+## 📬 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/yahya-lemkharbech">
-  <img src="https://img.shields.io/badge/-%40yahya--lemkharbech-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:lemkharbechy@gmail.com">
-  <img src="https://img.shields.io/badge/-lemkharbechy%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://lemkharbechyahya.me">
-  <img src="https://img.shields.io/badge/-lemkharbechyahya.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=16A085" />
+  <img src="https://img.shields.io/badge/Portfolio-16A085?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
@@ -221,16 +217,9 @@ const yahya = {
 
 <br><br>
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   "Code with sincerity. Build with purpose. Trust in Allah." 🤲  ║
- ║                                                                  ║
- ║          بسم الله الرحمن الرحيم — In the name of God,           ║
- ║              the Most Gracious, the Most Merciful.               ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
+### ✨ _"Code with sincerity. Build with purpose. Trust in Allah."_ 🤲
+
+**بسم الله الرحمن الرحيم**
 
 <br>
 
