@@ -22,125 +22,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME -->
-
-<table>
-<tr>
-<td width="55%">
-
-## `> cat about_yahya.yml` 📂
-
-```yaml
-name: Yahya Lemkharbech
-location: Morocco 🇲🇦
-role: Full Stack Developer & Future IS Engineer
-
-education:
-  degree: Master's in Information Systems Engineering
-  university: FSSM — Marrakech
-
-currently:
-  learning: [ "AI/ML", "Cloud Architecture", "System Design" ]
-  building: [ "Scalable Web Apps", "DevOps Pipelines" ]
-  exploring: [ "LLMs", "Kubernetes", "Microservices" ]
-
-philosophy: >
-  وَقُل رَّبِّ زِدْنِي عِلْمًا
-  "My Lord, increase me in knowledge."
-
-fun_facts:
-  - 🔋 Fueled by mint tea and clean code
-  - 🌙 Most productive after midnight
-  - 🎯 Believes every bug is a lesson in disguise
-  - 🏔️ Draws inspiration from the Atlas Mountains
-```
-
-</td>
-<td width="45%">
+<details open>
+<summary><h2>👨‍💻 About Me</h2></summary>
+<br>
 
 <div align="center">
-<img src="https://gifdb.com/images/high/coding-function-animation-fe7t4gejurmtof8v.gif" width="100%"/>
-
-<br><br>
-
-```js
-const yahya = {
-  pronouns: "he" | "him",
-  code: ["Java", "Python", "JS",
-         "PHP", "C", "C++"],
-  ask_me_about: ["web dev", "devops",
-                  "AI", "freelancing"],
-  daily_routine: {
-    morning: "☕ Plan & Design",
-    afternoon: "💻 Code & Build",
-    evening: "📚 Learn & Grow",
-    night: "🤲 Reflect & Be Grateful"
-  }
-};
-```
-
+  <img align="right" width="350" src="https://gifdb.com/images/high/coding-function-animation-fe7t4gejurmtof8v.gif"/>
 </div>
 
-</td>
-</tr>
-</table>
+> 🧠 "وَقُل رَّبِّ زِدْنِي عِلْمًا" — "My Lord, increase me in knowledge."
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 🌍 Proudly from *Morocco* — driven by simplicity, ambition, and purpose
+- 🎓 Master's student in *Information Systems Engineering* at FSSM Marrakech
+- 🔍 Focusing on *AI, **DevOps, and **Software Engineering*
+- 👨‍💻 *Full Stack Developer* — building robust, scalable solutions
+- 💼 *Freelancer* — delivering impactful web and mobile projects
+- 🚀 Passionate about learning, growth, and meaningful technology
 
-## 🧩 Tech Stack & Skills
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="line" width="100%">
 
-<div align="center">
+</details>
 
-<table>
-<tr><td align="center" width="50%">
 
-### ⚡ Languages & Runtimes
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,php,c,cpp&theme=dark&perline=6" />
-
-</td><td align="center" width="50%">
-
-### 🎨 Frontend Universe
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma&theme=dark&perline=6" />
-
-</td></tr>
-
-<tr><td align="center" width="50%">
-
-### 🔧 Backend & Frameworks
-<br>
-
-<img src="https://skillicons.dev/icons?i=spring,laravel,php,nodejs,express,flask&theme=dark&perline=6" />
-
-</td><td align="center" width="50%">
-
-### 🗄️ Data & Storage
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,redis,sqlite&theme=dark&perline=6" />
-
-</td></tr>
-
-<tr><td align="center" width="50%">
-
-### ☁️ DevOps & Cloud
-<br>
-
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,linux&theme=dark&perline=6" />
-
-</td><td align="center" width="50%">
-
-### 🛡️ OS & Environment
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,vscode,idea&theme=dark&perline=6" />
-
-</td></tr>
-</table>
-
+<details open>
 <br>
 
 ### 🧠 Methodologies & Architecture
